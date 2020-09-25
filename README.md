@@ -1,5 +1,5 @@
 # HelloWorld
 
-Hi I am Roselina Mkhabela and I an new to github.
+Hi I am Roselina Mkhabela and I am new to github.
 
-I came from Tembisa, from a big family and I love them so much. 
+I came from Tembisa
